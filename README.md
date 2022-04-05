@@ -1,0 +1,2 @@
+# challenge10daysofjavascriptPart1
+ HackRankChallenge
